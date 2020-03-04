@@ -1,0 +1,40 @@
+.p-2 img{
+  width: 30px;
+}
+
+body{
+  background: #f2f2f2;
+}
+
+.p-2 {
+    
+    width: 120px;
+    height: 80px;
+    background:#ffffff;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px rgb(212, 211, 211);
+}
+
+.d-flex{
+    padding-top: 20px;
+}
+
+.card{
+    border: none;
+    background: none;
+}
+
+.card-body{
+    color: gray;
+    font-size: 13px;
+}
+
+.h4 {
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
